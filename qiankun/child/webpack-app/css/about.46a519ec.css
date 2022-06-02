@@ -1,0 +1,1 @@
+.scroll1{height:200px;border:1px solid red}.scroll1,.scroll2{width:500px;margin:100px auto;overflow:hidden}.scroll2{height:160px;border:1px solid #00f}.scroll1 .item,.scroll2 .item{display:flex;align-items:center;justify-content:space-between;padding:3px 0}
